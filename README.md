@@ -5,6 +5,7 @@
 - 👨‍💻 Usually write in Python, C#, C++ for game projects, sometimes i use for data analysis and machine learning
 - 🐶 Like doing game projects, data analysis, solving algorithms, mostly interested in AI
 - ✉️ You can shoot me an email at [dogukan.demir@yahoo.com](mailto:dogukan.demir@yahoo.com)
+- 👉 You can also see some videos of my public projects [Youtube](https://www.youtube.com/channel/UCjM3_8tkPrn1l9mVTaiw8_Q)
 
 -![Leetcode Stats](https://leetcode.card.workers.dev/?username=demirdogukan)
 
