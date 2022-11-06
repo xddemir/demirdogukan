@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Dogukan Demir! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi there, I'm Dogukan Demir!></h2>
 <p><em> Computer science student at <a href="https://duzce.edu.tr/">Duzce University</a></p>
  <p><em> Software Engineer at <a href="https://www.nttdata.com/global/en/">NTT Data</a></p>
 
@@ -10,7 +10,7 @@
 
 ```javascript
 const dogukan = {
-  code: [Javascript, Python, HTML, CSS, C#, SQL],
+  code: [Javascript, Python, Html, Css, C#, Sql],
   tools: [Unity, React, Redux, Node, Docker, Azure, Heroku],
   architecture: ["Object Orianted Programming", "Design Patterns", "Distributed Systems", Network Programming]
  challenge: "Challenges I encounter are what is motivating me"
