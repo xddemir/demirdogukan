@@ -12,6 +12,6 @@
 const dogukan = {
   code: [Javascript, Python, HTML, CSS, C#, SQL],
   tools: [Unity, React, Redux, Node, Docker, Azure, Heroku],
-  architecture: ["OOP", "event-driven", "design system pattern", "istributed Systems"]
+  architecture: ["Object Orianted Programming", "Design Patterns", "Distributed Systems", Network Programming]
  challenge: "Challenges I encounter are what is motivating me"
 }
