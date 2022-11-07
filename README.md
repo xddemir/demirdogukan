@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Dogukan Demir!></h2>
+<h2> Hi there, I'm Dogukan Demir! </h2>
 <p><em> Computer science student at <a href="https://duzce.edu.tr/">Duzce University</a></p>
  <p><em> Software Engineer at <a href="https://www.nttdata.com/global/en/">NTT Data</a></p>
 
