@@ -8,7 +8,8 @@
 - 🌱 I’m currently dealing with Game Development, Network Programming and Distributed Systems
 - 💬 Ask me anything about my triangle C++/C#/Python
 - 📫 How to reach me: **dogukan.demir991@gmail.com**
-- <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="python" width="20" height="20"/> You can also check out my games <a href="https://www.youtube.com/channel/UCjM3_8tkPrn1l9mVTaiw8_Q">here</a>
+- <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="python" width="20" height="20"/> You can also check out my games on <a href="https://www.youtube.com/channel/UCjM3_8tkPrn1l9mVTaiw8_Q">Youtube</a>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"  width="20" height="20"> Check me out on <a href="https://leetcode.com/demirdogukan/">LeetCode</a>
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="python" width="55" height="55"/>
