@@ -1,7 +1,9 @@
 <h2> Hi there, I'm Dogukan Demir! </h2>
 <p><em> Computer science student at <a href="https://duzce.edu.tr/">Duzce University</a></p>
- <p><em> Software Engineer at <a href="https://www.nttdata.com/global/en/">NTT Data</a></p>
-
+<p><em> Software Engineer at <a href="https://www.nttdata.com/global/en/">NTT Data</a></p>
+ 
+<img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" width="20" height="20"> Dead Earth coming out soon on <a href="https://store.steampowered.com/app/2315000/Dead_Earth">Steam</a> !
+ 
 [![Linkedin: xddemir](https://img.shields.io/badge/-dogukandemir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/do%C4%9Fukan-demir-981a59108/](https://www.linkedin.com/in/do%C4%9Fukan-demir-981a59108/))](https://www.linkedin.com/in/do%C4%9Fukan-demir-981a59108/)
 [![GitHub xddemir](https://img.shields.io/github/followers/xddemir?label=follow&style=social)](https://github.com/xddemir)
 
