@@ -2,16 +2,20 @@
 <p><em> Computer science student at <a href="https://duzce.edu.tr/">Duzce University</a></p>
 <p><em> Software Engineer at <a href="https://www.nttdata.com/global/en/">NTT Data</a></p>
  
-<img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" width="20" height="20"> Dead Inside coming out soon on <a href="https://store.steampowered.com/app/2315000/Dead_Inside/">Steam</a> !
- 
+> <img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" width="20" height="20"> **Dead Inside** coming out soon on <a href="https://store.steampowered.com/app/2315000/Dead_Inside/">**Steam**</a>!
+  
 [![Linkedin: xddemir](https://img.shields.io/badge/-dogukandemir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/do%C4%9Fukan-demir-981a59108/](https://www.linkedin.com/in/do%C4%9Fukan-demir-981a59108/))](https://www.linkedin.com/in/do%C4%9Fukan-demir-981a59108/)
 [![GitHub xddemir](https://img.shields.io/github/followers/xddemir?label=follow&style=social)](https://github.com/xddemir)
-
+ 
 - 🌱 I’m currently dealing with Game Development, Network Programming and Distributed Systems
+ 
 - 💬 Ask me anything about my triangle C++/C#/Python
+ 
 - 📫 How to reach me: **dogukan.demir991@gmail.com**
-- <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="python" width="20" height="20"/> You can also check out my games on <a href="https://www.youtube.com/channel/UCjM3_8tkPrn1l9mVTaiw8_Q">Youtube</a>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"  width="20" height="20"> Check me out on <a href="https://leetcode.com/demirdogukan/">LeetCode</a>
+ 
+- <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="python" width="20" height="20"/> You can also check out my games on <a href="https://www.youtube.com/channel/UCjM3_8tkPrn1l9mVTaiw8_Q">**Youtube**</a>
+ 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"  width="20" height="20"> Check me out on <a href="https://leetcode.com/demirdogukan/">**LeetCode**</a>
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="python" width="55" height="55"/>
