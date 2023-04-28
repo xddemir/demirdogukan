@@ -25,9 +25,11 @@
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt=".NET" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt=".NET" width="55" height="55"/>
- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt=".NET" width="55" height="55"/>
- <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt=".NET" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt=".NET" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt=".NET" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt=".NET" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt=".NET" width="55" height="55"/>
+      
 </p>
 
 <h2> Project </h2>
