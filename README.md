@@ -7,7 +7,9 @@
 <li>🧐 Enhancing my skills on <strong>Game Development</strong> and <strong>Parallel Programming</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/xddemir">Github</a>.</li>
 <li>📝 Developer and Writer of <a href="https://store.steampowered.com/app/2315000/Dead_Inside/">Dead Inside</a>.</li>
-<li>💬 How to reach me: dogukan.demir991@gmail.com</li>
+<li>💬 How to reach me: <strong>dogukan.demir991@gmail.com.</strong></li>
+<li>💻 More details on my <a href="https://xddemir.github.io./">portfolio</a>.</li></li>
+      
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
