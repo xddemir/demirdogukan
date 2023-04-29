@@ -20,15 +20,18 @@
       <img src="https://user-images.githubusercontent.com/52351749/127752433-8c8cc395-62d0-4713-b1ee-7c6c622ab95b.png" alt="c" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://user-images.githubusercontent.com/52351749/127752469-1265145c-d445-41de-b1ca-25114ebd9df6.png" alt="javascript" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt=".NET" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqllite" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt=".NET" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt=".NET" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt=".NET" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt=".NET" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt=".NET" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt=".NET" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt=".NET" width="55" height="55"/>
       
 </p>
 
