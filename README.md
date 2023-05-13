@@ -36,6 +36,3 @@
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt=".NET" width="55" height="55"/>
       
 </p>
-
-<h2> Project </h2>
-<img align="right" src="https://user-images.githubusercontent.com/56155535/235124728-5dc865db-4ac6-4e9f-94f3-8dee491519ae.mp4" width="100" height= "100">
