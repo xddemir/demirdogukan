@@ -35,5 +35,6 @@
       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt=".NET" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt=".NET" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt=".NET" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt=".NET" width="55" height="55"/>
       
 </p>
