@@ -38,4 +38,6 @@
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt=".NET" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt=".NET" width="55" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="Elastic" height="55"/>
+      
 </p>
