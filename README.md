@@ -13,7 +13,7 @@
 <li>💻 More details on my <a href="https://xddemir.github.io./">portfolio</a>.</li></li>
       
 </ul>
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 Tech Stack</h2>
 <p align="left">
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="python" width="55" height="55"/>
