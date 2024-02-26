@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/dogukan-demir-981a59108/">Demir</a></h2>
+<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/dogukandemir99/">Demir</a></h2>
 <p>I've been learning and enhancing my skills in various aspects of the software industry, which makes me significantly familiar with it and helps me look under the hood from learning data structures, solving fundamental algorithmic problems to implementing design patterns by comparing with anti-patterns.</p>
 
 ![](https://leetcard.jacoblin.cool/demirdogukan?border=0&radius=20)
