@@ -5,7 +5,6 @@
 
 <h2>⚡️ About Me</h2>
 <ul>
-<li>🔭 Software Engineer at <a href="https://nttdata-solutions.com/tr/">NTT Data Business Solutions</a>.</li>
 <li>🧐 Enhancing my skills on <strong>Game & Web Development</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/xddemir">Github</a>.</li>
 <li>📝 Developer and Writer of <a href="https://store.steampowered.com/app/2315000/Dead_Inside/">Dead Inside</a>.</li>
